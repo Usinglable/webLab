@@ -7,6 +7,12 @@ body {
     display: flex; 
     flex-direction: column; 
 } 
+
+img {
+  width: 200px !important;
+  width: 200px !important;
+}
+
 .meals-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
