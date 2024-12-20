@@ -1,5 +1,3 @@
-import { meals, loadDishes } from "./meals.js";
-
 let order = {
     soup: null,
     main_course: null,
@@ -148,4 +146,3 @@ let order = {
     updateOrderDisplay();
   });
 });
-export {order };

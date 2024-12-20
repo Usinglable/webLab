@@ -21,5 +21,3 @@ async function loadDishes() {
     console.error("Ошибка при загрузке данных о блюдах:", error);
   }
 }
-
-export { meals, loadDishes };

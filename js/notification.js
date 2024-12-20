@@ -1,5 +1,3 @@
-import { order } from "./script.js";
-
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.querySelector("form");
   const orderSummary = document.getElementById("order-summary");
